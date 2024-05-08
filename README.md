@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning python and JS
+- 💬 Ask me about anything
+- 😄 Pronouns: she/her
 <!--
 **chrryie/chrryie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
